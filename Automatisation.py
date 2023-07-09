@@ -6,7 +6,7 @@ import yt_dlp
 import re
 import time
 
-API_KEY = "AIzaSyCVzn-eoGHT02dc56ijjWp9s7d2nLkkX6w"
+API_KEY = ""
 CHANNEL_ID = "UCbfYPyITQ-7l4upoX8nvctg"
 
 # Requête pour récupérer les vidéos d'une chaîne
